@@ -1,0 +1,296 @@
+[
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "marketCap": 4823.3,
+    "forwardPE": 17.66,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "marketCap": 4672.8,
+    "forwardPE": 27.26,
+    "sector": "Communication Services"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "marketCap": 4109,
+    "forwardPE": 29.44,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "marketCap": 3078.6,
+    "forwardPE": 21.5,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "marketCap": 2884.9,
+    "forwardPE": 27.25,
+    "sector": "Consumer Cyclical"
+  },
+  {
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "marketCap": 2062.5,
+    "forwardPE": 20.61,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc.",
+    "marketCap": 1994.6,
+    "forwardPE": 23.25,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc.",
+    "marketCap": 1545.3,
+    "forwardPE": 16.88,
+    "sector": "Communication Services"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "marketCap": 1467.8,
+    "forwardPE": 154.15,
+    "sector": "Consumer Cyclical"
+  },
+  {
+    "symbol": "WMT",
+    "name": "Walmart Inc.",
+    "marketCap": 1049,
+    "forwardPE": 40.09,
+    "sector": "Consumer Defensive"
+  },
+  {
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway Inc.",
+    "marketCap": 1020.2,
+    "forwardPE": 21.75,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "LLY",
+    "name": "Eli Lilly and Company",
+    "marketCap": 862,
+    "forwardPE": 22.06,
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "marketCap": 837.3,
+    "forwardPE": 13.29,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "XOM",
+    "name": "Exxon Mobil Corporation",
+    "marketCap": 634.9,
+    "forwardPE": 15.02,
+    "sector": "Energy"
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "marketCap": 623.8,
+    "forwardPE": 22.17,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "TCEHY",
+    "name": "Tencent Holdings Limited",
+    "marketCap": 553.5,
+    "forwardPE": 1.78,
+    "sector": "Communication Services"
+  },
+  {
+    "symbol": "ASML",
+    "name": "ASML Holding N.V.",
+    "marketCap": 550,
+    "forwardPE": 35.01,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson",
+    "marketCap": 546.9,
+    "forwardPE": 17.87,
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "ORCL",
+    "name": "Oracle Corporation",
+    "marketCap": 494.2,
+    "forwardPE": 21.39,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "COST",
+    "name": "Costco Wholesale Corporation",
+    "marketCap": 448.8,
+    "forwardPE": 45.02,
+    "sector": "Consumer Defensive"
+  },
+  {
+    "symbol": "MA",
+    "name": "Mastercard Incorporated",
+    "marketCap": 437.6,
+    "forwardPE": 21.79,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "NFLX",
+    "name": "Netflix, Inc.",
+    "marketCap": 387.6,
+    "forwardPE": 23.97,
+    "sector": "Communication Services"
+  },
+  {
+    "symbol": "CVX",
+    "name": "Chevron Corporation",
+    "marketCap": 379.7,
+    "forwardPE": 16.19,
+    "sector": "Energy"
+  },
+  {
+    "symbol": "BAC",
+    "name": "Bank of America Corporation",
+    "marketCap": 379.6,
+    "forwardPE": 10.56,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "ABBV",
+    "name": "AbbVie Inc.",
+    "marketCap": 365.4,
+    "forwardPE": 12.77,
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "KO",
+    "name": "The Coca-Cola Company",
+    "marketCap": 338.1,
+    "forwardPE": 22.61,
+    "sector": "Consumer Defensive"
+  },
+  {
+    "symbol": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "marketCap": 334.9,
+    "forwardPE": 17.77,
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "BABA",
+    "name": "Alibaba Group Holding Limited",
+    "marketCap": 324.5,
+    "forwardPE": 2.59,
+    "sector": "Consumer Cyclical"
+  },
+  {
+    "symbol": "HD",
+    "name": "The Home Depot, Inc.",
+    "marketCap": 322.6,
+    "forwardPE": 19.87,
+    "sector": "Consumer Cyclical"
+  },
+  {
+    "symbol": "HSBC",
+    "name": "HSBC Holdings plc",
+    "marketCap": 315.4,
+    "forwardPE": 9.83,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "AZN",
+    "name": "AstraZeneca PLC",
+    "marketCap": 286.4,
+    "forwardPE": 21.21,
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "TM",
+    "name": "Toyota Motor Corporation",
+    "marketCap": 223.5,
+    "forwardPE": 10.6,
+    "sector": "Consumer Cyclical"
+  },
+  {
+    "symbol": "PEP",
+    "name": "PepsiCo, Inc.",
+    "marketCap": 215.2,
+    "forwardPE": 17.2,
+    "sector": "Consumer Defensive"
+  },
+  {
+    "symbol": "SAP",
+    "name": "SAP SE",
+    "marketCap": 201.3,
+    "forwardPE": 18.19,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "BHP",
+    "name": "BHP Group Limited",
+    "marketCap": 200.8,
+    "forwardPE": 14.86,
+    "sector": "Basic Materials"
+  },
+  {
+    "symbol": "NVO",
+    "name": "Novo Nordisk A/S",
+    "marketCap": 194.6,
+    "forwardPE": 2,
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "RIO",
+    "name": "Rio Tinto Group",
+    "marketCap": 163.6,
+    "forwardPE": 11.2,
+    "sector": "Basic Materials"
+  },
+  {
+    "symbol": "CRM",
+    "name": "Salesforce, Inc.",
+    "marketCap": 150.4,
+    "forwardPE": 12.31,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "PDD",
+    "name": "PDD Holdings Inc.",
+    "marketCap": 141.9,
+    "forwardPE": 1.04,
+    "sector": "Consumer Cyclical"
+  },
+  {
+    "symbol": "HDB",
+    "name": "HDFC Bank Limited",
+    "marketCap": 129.2,
+    "forwardPE": 17.09,
+    "sector": "Financial Services"
+  },
+  {
+    "symbol": "SONY",
+    "name": "Sony Group Corporation",
+    "marketCap": 116.9,
+    "forwardPE": 15.33,
+    "sector": "Technology"
+  },
+  {
+    "symbol": "SNY",
+    "name": "Sanofi",
+    "marketCap": 110.4,
+    "forwardPE": 8.89,
+    "sector": "Healthcare"
+  }
+]

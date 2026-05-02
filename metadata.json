@@ -1,0 +1,6 @@
+{
+  "name": "Market Cap Dashboard ($100B+)",
+  "description": "A dashboard tracking US-listed companies with market caps exceeding $100B, featuring ticker symbols, current market caps, and forward P/E ratios based on recent reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
